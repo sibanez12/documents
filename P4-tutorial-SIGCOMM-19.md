@@ -1,7 +1,17 @@
 
+# Tutorial Program
+
+* 9:00 am - 10:30 am P4 Language Overview
+* 10:30 am - 11:00 am Tea/Coffee Break
+* 11:00 am - 12:30 pm Collaborative Lab Exercises
+* 12:30 pm - 2:00 pm Lunch Break
+* 2:00 pm - 3:15 pm Mini Research Workshop - Part I
+* 3:15 pm - 3:45 pm Tea/Coffee Break
+* 3:45 pm - 5:30 pm Mini Research Workshop - Part II
+
 # Call for Participation
 
-This tutorial will provide participants with a hands-on introduction to the P4 language ([www.p4.org](www.p4.org)). Attendees will learn how to express conventional and novel data-plane applications in the P4 language, and how to compile, execute, and evaluate P4 programs using Mininet, a network emulation framework
+This tutorial will provide participants with a hands-on introduction to the P4 language ([www.p4.org](www.p4.org)). Attendees will learn how to express conventional and novel data-plane applications in the P4 language, and how to compile, execute, and evaluate P4 programs using Mininet, a network emulation framework.
 
 # Important Dates
 
@@ -12,13 +22,13 @@ August 19, 2019
 The goal of the tutorial is to introduce attendees to the P4 language. Through a series of simple exercises, we will show them how to prototype network applications in the P4 language and compile them to programmable devices. We also aim to encourage researchers and developers to contribute to the P4 language, and develop new applications. By the end of the tutorial attendees will be able to implement novel data-plane features in P4, and evaluate their programs using Mininet, a network emulation framework.
 
 More specifically, we plan to cover the following topics:
-* P4 language overview (1.5 hr)
-* Hands-on training of P4 development environment (2.5 hr)
+* P4 language overview
+* Hands-on training of P4 development environment
     * Compiler
     * Debugger
     * Behavioral model
     * Lab exercises
-* Mini-workshop – invited talks focusing on the following categories (4 hr) 
+* Mini-workshop – invited talks focusing on the following categories
     * Emerging P4 applications
     * Future research directions
     * New P4 targets and tools
