@@ -46,12 +46,22 @@ Recently, P4 evolved to embrace the functional and architectural heterogeneity o
 # References
 
 [1] Pat Bosshart, et al. "P4: Programming protocol-independent packet processors," ACM SIGCOMM CCR, 2014, 44(3): 87-95.
+
 [2] http://p4.org/p4/p4-and-open-vswitch/
+
 [3] https://github.com/blp/ovs-reviews/tree/p4
+
 [4] Changhoon Kim, et al. “In-band Network Telemetry via Programmable Dataplanes,” demo at SIGCOMM 2015 and SOSR 2015.
+
 [5] Naga Katta, et al. "HULA: Scalable Load Balancing Using Programmable Data-Planes," Proceedings of the ACM SOSR, 2016.
+
 [6] Yuliang Li, et al. “FlowRadar: A Better NetFlow for Data Centers,” Proceedings of the USENIX NSDI, 2016.
+
 [7] Miao, Rui, et al. "Silkroad: Making stateful layer-4 load balancing fast and cheap using switching asics." SIGCOMM, 2017.
+
 [8] Xin Jin, et al. “NetChain: Scale-Free Sub-RTT Coordination,” Proceedings of the USENIX NSDI, 2018.
+
 [9] Holterbach, Thomas, et al. "Blink: Fast connectivity recovery entirely in the data plane." Proceedings of the USENIX NSDI, 2019.
+
 [10] Ibanez, Stephen, et al. "The P4NetFPGA Workflow for Line-Rate Packet Processing." Proceedings of the ACM/SIGDA FPGA, 2019.
+
