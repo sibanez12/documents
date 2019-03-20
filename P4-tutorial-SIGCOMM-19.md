@@ -73,5 +73,5 @@ Recently, P4 evolved to embrace the functional and architectural heterogeneity o
 
 [9] Holterbach, Thomas, et al. "Blink: Fast connectivity recovery entirely in the data plane." Proceedings of the USENIX NSDI, 2019.
 
-[10] Ibanez, Stephen, et al. "The P4NetFPGA Workflow for Line-Rate Packet Processing." Proceedings of the ACM/SIGDA FPGA, 2019.
+[10] Ibanez, Stephen, et al. "The P4->NetFPGA Workflow for Line-Rate Packet Processing." Proceedings of the ACM/SIGDA FPGA, 2019.
 
