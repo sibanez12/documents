@@ -22,7 +22,7 @@ TBD
 
 The goal of the tutorial is two-fold:
 
-1. We will emphasize aspects of data-plane programming that were glossed over in previous P4 tutorials, including the P4 langauge-architecture separation and stateful packet processing. Through a series of exercises, we will show them how to prototype network applications in the P4 language and compile them to programmable devices. By the end of the tutorial, attendees will be able to implement novel data-plane features in P4, and evaluate their programs using Mininet, a network emulation framework.
+1. We will emphasize aspects of data-plane programming that were only briefly covered in previous P4 tutorials, including the P4 langauge-architecture separation and stateful packet processing. Through a series of exercises, we will show them how to prototype network applications in the P4 language and compile them to programmable devices. By the end of the tutorial, attendees will be able to implement novel data-plane features in P4, and evaluate their programs using Mininet, a network emulation framework.
 2. We will expose attendees to exciting new applications and future research directions enabled by data-plane programming.
 
 More specifically, we plan to cover the following topics:
