@@ -23,7 +23,7 @@ TBD
 The goal of the tutorial is two-fold:
 
 1. We will emphasize aspects of data-plane programming that were glossed over in previous P4 tutorials, including the P4 langauge-architecture separation and stateful packet processing. Through a series of exercises, we will show them how to prototype network applications in the P4 language and compile them to programmable devices. By the end of the tutorial, attendees will be able to implement novel data-plane features in P4, and evaluate their programs using Mininet, a network emulation framework.
-2. We will expose attendees to exciting new applications and future research directions within the P4 community.
+2. We will expose attendees to exciting new applications and future research directions enabled by data-plane programming.
 
 More specifically, we plan to cover the following topics:
 * P4 language overview and the language-architecture separation
@@ -40,7 +40,9 @@ More specifically, we plan to cover the following topics:
 
 # Audience Expectations and Prerequisites
 
-Attendees will be expected to have basic familiarity with the P4 lanaguage. Attendees will also be expected to bring their own laptops. We will provide a VM image containing all the necessary packages and tools. The P4 specification is publicly available at the P4 website under an Apache license. Key development tools (front-end compiler and software switch capable of running P4 programs) are available as open-source tools (http://github.com/p4lang).
+Attendees will be expected to have basic familiarity with the P4 lanaguage. Novice participants without any prior P4 experience are encouraged to refer to the [Getting Started](https://github.com/p4lang/education/blob/master/GettingStarted.md) wiki page.
+
+Attendees will also be expected to bring their own laptops. We will provide a VM image containing all the necessary packages and tools. The P4 specification is publicly available at the P4 website under an Apache license. Key development tools (front-end compiler and software switch capable of running P4 programs) are available as open-source tools (http://github.com/p4lang).
 
 # Background
 
@@ -52,7 +54,7 @@ Recently, P4 evolved to embrace the functional and architectural heterogeneity o
 
 # Organizers
 
-**Stephen Ibanez** is a PhD Candidate at Stanford University working with Professor Nick McKeown. His research focuses improving the programmability of network devices in two key areas: traffic management and stateful packet processing. He leads the programmable traffic management sub-working group within P4.org. He has hosted numerous P4 related tutorials at venues including SIGCOMM and P4 Workshops, and he also leads the P4->NetFPGA community of developers and users.
+**Stephen Ibanez** is a PhD Candidate at Stanford University working with Professor Nick McKeown. His research focuses on developing novel and programmable packet processing architectures. He leads the programmable traffic management sub-working group within P4.org. He has hosted numerous P4 related tutorials at venues including SIGCOMM and P4 Workshops, and he also leads the P4->NetFPGA community of developers and users.
 
 **Changhoon (Chang) Kim** is CTO of Applications at Barefoot Networks and is also working actively for the P4 Language Consortium (P4.org). Before getting involved with P4.org and Barefoot, he worked at Windows Azure, Microsoft’s cloud-service division, and led engineering and research projects on the architecture, performance, and management of datacenter networks. Chang is interested in programmable networking, network monitoring and diagnostics, application acceleration, self-configuring/running networks, and debugging and diagnosis of large-scale distributed systems. Many of his engineering and research contributions — including In-band Network Telemetry, Tiny Packet Programs, VL2, Seawall, EyeQ, Ananta, and SEATTLE — are adopted in large production systems and services. He received a few awards, including best paper awards from top-notch conferences, including SIGCOMM, NSDI, and FAST.
 
