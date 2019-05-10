@@ -16,7 +16,7 @@ This tutorial will provide participants with a hands-on experience working with 
 
 # Important Dates
 
-August 19, 2019
+TBD
 
 # Outline
 
