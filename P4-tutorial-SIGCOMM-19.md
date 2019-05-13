@@ -14,6 +14,8 @@
 
 This tutorial will provide participants with a hands-on experience working with the P4 language ([www.p4.org](www.p4.org)). Attendees will learn how to express conventional and novel data-plane applications in the P4 language, and how to compile, execute, and evaluate P4 programs using Mininet, a network emulation framework.
 
+The second half of the day will consist of a mini P4 Workshop for participants to present early stage research ideas. If you would like to give a short 10-15 minute talk, please submit a 1-page talk proposal to the following website: https://p4workshop.cs.cornell.edu/
+
 # Important Dates
 
 TBD
