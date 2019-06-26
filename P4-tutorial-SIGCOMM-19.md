@@ -18,8 +18,8 @@ The second half of the day will consist of a mini P4 Workshop for participants t
 
 # Important Dates
 
-* June 28th, 2019 - Submission Deadline
-* July 12th, 2019 - Author Notification Date
+* July 12th, 2019 - Submission Deadline
+* July 26th, 2019 - Author Notification Date
 * August 23rd, 2019 - Tutorial Date
 
 # Outline
