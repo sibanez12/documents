@@ -48,6 +48,24 @@ Attendees will be expected to have basic familiarity with the P4 lanaguage. Novi
 
 Attendees will also be expected to bring their own laptops. We will provide a VM image containing all the necessary packages and tools. The P4 specification is publicly available at the P4 website under an Apache license. Key development tools (front-end compiler and software switch capable of running P4 programs) are available as open-source tools (http://github.com/p4lang).
 
+# Tutorial Instructions
+
+In order to ensure that you arrive prepared for the tutorial we ask that you please follow the instructions listed on our [GitHub repository](https://github.com/p4lang/tutorials/tree/sigcomm19).
+
+If you attend and complete the P4 tutorial and you would like to receive a certificate of completion from P4.org, please send an email to sibanez@stanford.edu indicating your request.
+
+# Mini-Workshop Program
+
+* *Leveraging P4 to Automatically Validate Networking Switches.* Stefan Heule, Konstantin Weitz, Waqar Mohsin, Lorenzo Vicisano, Amin Vahdat (Google).
+* *Mimic P4 Model.* Le Tian (Information Engineering University), Pengshuai Cui (PLA Strategic Support Force Information Engineering University), Yuxiang Hu (PLA Strategic Support Force Information Engineering University)
+* *Taurus: An Intelligent Data Plane.* Tushar Swamy, Alexander Rucker, Muhammad Shahbaz, and Kunle Olukotun (Stanford University)
+* *100Gbps P4-enabled Smart NIC: Architecture and Challenges on Datapath implementation in FPGA.* Yan Yan (Raymax Technology)
+* *Non-invasive Campus Deployment of P4-based Network Measurement.* Xiaoqi Chen (Princeton University)
+* *Performant and Flexible DDoS Defense with Programmable Switches.* Zaoxing Liu (Carnegie Mellon University),  Georgios Nikolaidis (Barefoot Networks), Jeongkeun Lee (Barefoot Networks),  Changhoon Kim (Barefoot Networks), Xin Jin (Johns Hopkins University), Minlan Yu (Harvard University), Vyas Sekar (Carnegie Mellon University)
+* *Magellan: A Compiler and Runtime for High-Level Programming of Highly Programmable Network Data Planes.* 
+Y. Richard Yang (Yale University)
+* *Redesigning Sketch Data Structures for Programmable Data Plane Devices.* Vladimir Braverman (Johns Hopkins University)
+
 # Background
 
 P4 (www.p4.org) is a programming language for describing how network packets should be processed on a variety of targets ranging from general-purpose CPUs to network processors, FPGAs, and custom ASICs [1]. P4 was designed with three goals in mind: (i) *protocol independence*: devices should not “bake in” specific protocols; (ii) *field re-configurability*: programmers should be able to modify the behavior of devices after they have been deployed; and (iii) *portability*: programs should not be tied to specific hardware targets. 
