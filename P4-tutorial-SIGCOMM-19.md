@@ -1,14 +1,14 @@
 
 # Tutorial Program
 
-* 9:00 am - 10:00 am P4 Language Overview
-* 10:00 am - 10:30 am Collaborative Lab Exercises - Part I
-* 10:30 am - 11:00 am Tea/Coffee Break
-* 11:00 am - 12:30 pm Collaborative Lab Exercises - Part II
-* 12:30 pm - 2:00 pm Lunch Break
-* 2:00 pm - 3:15 pm Mini Research Workshop - Part I
-* 3:15 pm - 3:45 pm Tea/Coffee Break
-* 3:45 pm - 5:30 pm Mini Research Workshop - Part II
+* 8:30 am - 9:30 am P4 Language Overview
+* 9:30 am - 10:00 am Collaborative Lab Exercises - Part I
+* 10:00 am - 10:30 am Tea/Coffee Break
+* 10:30 am - 12:00 pm Collaborative Lab Exercises - Part II
+* 12:00 pm - 1:30 pm Lunch Break
+* 1:30 pm - 3:00 pm Mini Research Workshop - Part I
+* 3:00 pm - 3:30 pm Tea/Coffee Break
+* 3:30 pm - 5:00 pm Mini Research Workshop - Part II
 
 # Call for Participation
 
