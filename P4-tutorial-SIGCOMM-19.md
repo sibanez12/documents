@@ -62,8 +62,8 @@ If you attend and complete the P4 tutorial and you would like to receive a certi
 * *100Gbps P4-enabled Smart NIC: Architecture and Challenges on Datapath implementation in FPGA.* Yan Yan (Raymax Technology)
 * *Non-invasive Campus Deployment of P4-based Network Measurement.* Xiaoqi Chen (Princeton University)
 * *Performant and Flexible DDoS Defense with Programmable Switches.* Zaoxing Liu (Carnegie Mellon University),  Georgios Nikolaidis (Barefoot Networks), Jeongkeun Lee (Barefoot Networks),  Changhoon Kim (Barefoot Networks), Xin Jin (Johns Hopkins University), Minlan Yu (Harvard University), Vyas Sekar (Carnegie Mellon University)
-* *Magellan: A Compiler and Runtime for High-Level Programming of Highly Programmable Network Data Planes.* 
-Y. Richard Yang (Yale University)
+* *Compiling Global SDN Programs to Device-level P4 Configurations.* 
+Kai Gao, Dong Guo, Y. Richard Yang (Yale University)
 * *Redesigning Sketch Data Structures for Programmable Data Plane Devices.* Vladimir Braverman (Johns Hopkins University)
 
 # Background
